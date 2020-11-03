@@ -1,33 +1,153 @@
-,State,State Abbreviation,Total Votes,Republican Candidate,Republican Votes,Republican Percent,Democrat Candidate,Democrat Votes,Democrat Percent,Winner
-0,Arizona,AZ,2384308,Martha McSally,1135200,0.476112985,Kyrsten Sinema,1191100,0.499557943,democrat
-1,Connecticut,CT,1386840,Matthew Corey,545717,0.393496726,Christopher S Murphy,787685,0.567971071,democrat
-2,Delaware,DE,362592,Robert B Arlett,137127,0.378185398,Thomas R Carper,217385,0.599530602,democrat
-3,Florida,FL,8190005,Rick Scott,4099505,0.500549755,Bill Nelson,4089472,0.499324726,republican
-4,Hawaii,HI,388351,Ron Curtis,112035,0.288489022,Mazie K. Hirono,276316,0.711510978,democrat
-5,Indiana,IN,2282565,Mike Braun,1158000,0.507323997,Joe Donnelly,1023553,0.448422279,republican
-6,Maine,ME,634409,Eric L. Brakey,223502,0.352299542,Zak Ringelstein,66268,0.104456273,republican
-7,Maryland,MD,2299889,Tony Campbell,697017,0.303065496,Ben Cardin,1491614,0.648559126,democrat
-8,Massachusetts,MA,2707090,Geoff Diehl,979210,0.361720519,Elizabeth A. Warren,1633371,0.603367823,democrat
-9,Michigan,MI,4237271,John James,1938818,0.457562898,Debbie Stabenow,2214478,0.522618921,democrat
-10,Mississippi,MS,1843803,Roger F. Wicker,547619,0.297005157,David Baria,369567,0.200437357,republican
-11,Mississippi,MS,1843803,Roger F. Wicker,547619,0.297005157,Mike Espy,420819,0.228234253,republican
-12,Mississippi,MS,1843803,Cindy Hyde-Smith,486769,0.264002716,David Baria,369567,0.200437357,republican
-13,Mississippi,MS,1843803,Cindy Hyde-Smith,486769,0.264002716,Mike Espy,420819,0.228234253,republican
-14,Missouri,MO,2442289,Josh Hawley,1254927,0.513832311,Claire McCaskill,1112935,0.455693409,republican
-15,Montana,MT,504384,Matt Rosendale,235963,0.467824118,Jon Tester,253876,0.503338726,democrat
-16,Nebraska,NE,698883,Deb Fischer,403151,0.576850489,Jane Raybould,269917,0.386211998,republican
-17,Nevada,NV,972132,Dean Heller,441202,0.453849889,Jacky Rosen,490071,0.504119811,democrat
-18,New Jersey,NJ,3169310,Bob Hugin,1357355,0.428280919,Robert Menendez,1711654,0.540071498,democrat
-19,New Mexico,NM,697012,Mick Rich,212813,0.30532186,Martin T Heinrich,376998,0.540877345,democrat
-20,New York,NY,6055151,Chele Chiavacci Farley,1730439,0.285779661,Kirsten E. Gillibrand,3755489,0.62021393,democrat
-21,Ohio,OH,4410898,Jim Renacci,2053963,0.465656426,Sherrod Brown,2355923,0.534114142,democrat
-22,Pennsylvania,PA,4994643,Louis J. Barletta,2134848,0.427427546,Robert P Casey Jr,2777680,0.55613184,democrat
-23,Rhode Island,RI,376738,"Robert G. Flanders, Jr.",144421,0.383345986,Sheldon Whitehouse,231477,0.614424348,democrat
-24,Tennessee,TN,2243740,Marsha Blackburn,1227483,0.547070071,Phil Bredesen,985450,0.439199729,republican
-25,Texas,TX,8371655,Ted Cruz,4260553,0.508926013,Beto O'Rourke,4045632,0.48325355,republican
-26,Utah,UT,1062845,Mitt Romney,665215,0.625881478,Jenny Wilson,328541,0.309114687,republican
-27,Virginia,VA,3351373,Corey A. Stewart,1374313,0.410074617,Timothy M. Kaine,1910370,0.570026076,democrat
-28,Washington,WA,3086168,Susan Hutchison,1282804,0.415662401,Maria Cantwell,1803364,0.584337599,democrat
-29,West Virginia,WV,582911,Patrick Morrisey,269872,0.462972907,Joe Manchin,288808,0.49545814,democrat
-30,Wisconsin,WI,2657841,Leah Vukmir,1184885,0.44580733,Tammy Baldwin,1472914,0.554176868,democrat
-31,Wyoming,WY,203420,John Barrasso,136210,0.669599843,Gary Trauner,61227,0.300988103,republican
+State,State Abbreviation,Special Election,Candidate,Party,Candidate Votes,Total Votes,Candidate Percent
+Arizona,AZ,False,Martha McSally,republican,1135200,2384308,0.4761129854028926
+Arizona,AZ,False,Kyrsten Sinema,democrat,1191100,2384308,0.49955794301742895
+Arizona,AZ,False,Angela Green,other,57442,2384308,0.02409168614122001
+Arizona,AZ,False,,other,566,2384308,0.0002373854384584542
+California,CA,False,Dianne Feinstein,democrat,6019422,11113364,0.541638157447196
+California,CA,False,Kevin De Leon,democrat,5093942,11113364,0.458361842552804
+Connecticut,CT,False,Christopher S Murphy,democrat,787685,1386840,0.5679710709238268
+Connecticut,CT,False,Matthew Corey,republican,545717,1386840,0.3934967263707421
+Connecticut,CT,False,Christopher S Murphy,other,37894,1386840,0.027323988347610396
+Connecticut,CT,False,Richard Lion,other,8838,1386840,0.006372761097170546
+Connecticut,CT,False,Jeff Russell,other,6618,1386840,0.004771999653889417
+Connecticut,CT,False,,other,88,1386840,6.345360676069337e-05
+Delaware,DE,False,Thomas R Carper,democrat,217385,362592,0.5995306018886242
+Delaware,DE,False,Robert B Arlett,republican,137127,362592,0.37818539846438975
+Delaware,DE,False,Demitri G Theodoropoulos,other,4170,362592,0.011500529520783691
+Delaware,DE,False,Nadine M Frost,other,3910,362592,0.010783470126202453
+Florida,FL,False,Rick Scott,republican,4099505,8190005,0.5005497554641297
+Florida,FL,False,Bill Nelson,democrat,4089472,8190005,0.49932472568698066
+Florida,FL,False,,other,1028,8190005,0.00012551884888959165
+Hawaii,HI,False,Mazie K. Hirono,democrat,276316,388351,0.7115109784705074
+Hawaii,HI,False,Ron Curtis,republican,112035,388351,0.28848902152949263
+Indiana,IN,False,Mike Braun,republican,1158000,2282565,0.507323997345092
+Indiana,IN,False,Joe Donnelly,democrat,1023553,2282565,0.44842227932172796
+Indiana,IN,False,Lucy M. Brenton,other,100942,2282565,0.044223056079454474
+Indiana,IN,False,,other,70,2282565,3.06672537255237e-05
+Maine,ME,False,Eric L. Brakey,republican,223502,634409,0.35229954177825346
+Maine,ME,False,"Angus S. King, Jr.",other,344575,634409,0.5431433034525046
+Maine,ME,False,Zak Ringelstein,democrat,66268,634409,0.10445627347657425
+Maine,ME,False,Others,other,64,634409,0.00010088129266766392
+Maryland,MD,False,Tony Campbell,republican,697017,2299889,0.3030654957695784
+Maryland,MD,False,Ben Cardin,democrat,1491614,2299889,0.6485591261143473
+Maryland,MD,False,Arvin Vohra,other,22943,2299889,0.00997569882720427
+Maryland,MD,False,Neal Simon,other,85964,2299889,0.03737745604244379
+Maryland,MD,False,,other,2351,2299889,0.0010222232464262406
+Massachusetts,MA,False,Elizabeth A. Warren,democrat,1633371,2707090,0.6033678230129031
+Massachusetts,MA,False,Geoff Diehl,republican,979210,2707090,0.3617205190813752
+Massachusetts,MA,False,Shiva Ayyadurai,other,91710,2707090,0.033877706319331825
+Massachusetts,MA,False,Others,other,2799,2707090,0.0010339515863898134
+Michigan,MI,False,John James,republican,1938818,4237271,0.45756289838436104
+Michigan,MI,False,Debbie Stabenow,democrat,2214478,4237271,0.5226189214709184
+Michigan,MI,False,George E. Huffman III,other,27251,4237271,0.00643126200802356
+Michigan,MI,False,Marcia Squier,other,40204,4237271,0.009488182370209505
+Michigan,MI,False,John Howard Wilhelm,other,16502,4237271,0.003894487749308458
+Michigan,MI,False,,other,18,4237271,4.2480171789814716e-06
+Minnesota,MN,False,Jim Newberger,republican,940437,5184235,0.1814032349999566
+Minnesota,MN,False,Amy Klobuchar,other,1566174,5184235,0.3021032032691419
+Minnesota,MN,False,Dennis Schuller,other,66236,5184235,0.012776426994532462
+Minnesota,MN,False,Paula M Overby,other,23101,5184235,0.004456009420869231
+Minnesota,MN,False,,other,931,5184235,0.00017958290856799508
+Minnesota,MN,True,Karin Housley,republican,1095777,5184235,0.21136715445962614
+Minnesota,MN,True,Tina Smith,other,1370540,5184235,0.2643668738010526
+Minnesota,MN,True,Sarah Wellington,other,95614,5184235,0.01844322257768022
+Minnesota,MN,True,Jerry Trooien,other,24324,5184235,0.004691916936635781
+Minnesota,MN,True,,other,1101,5184235,0.00021237463193701675
+Mississippi,MS,False,David Baria,democrat,369567,1843803,0.2004373569193672
+Mississippi,MS,False,Roger F. Wicker,republican,547619,1843803,0.297005157275479
+Mississippi,MS,False,Danny Bedwell,other,12981,1843803,0.007040339992938508
+Mississippi,MS,False,Shawn O'Hara,other,6048,1843803,0.003280176895253994
+Mississippi,MS,True,Cindy Hyde-Smith,republican,486769,1843803,0.26400271612531273
+Mississippi,MS,True,Mike Espy,democrat,420819,1843803,0.22823425279164858
+Missouri,MO,False,Josh Hawley,republican,1254927,2442289,0.5138323105905976
+Missouri,MO,False,Claire McCaskill,democrat,1112935,2442289,0.4556934089290825
+Missouri,MO,False,Japheth Campbell,other,27316,2442289,0.01118458953874828
+Missouri,MO,False,Jo Crain,other,12706,2442289,0.0052024965104457335
+Missouri,MO,False,Craig O'Dear,other,34398,2442289,0.01408432826745729
+Missouri,MO,False,,other,7,2442289,2.8661636685912274e-06
+Montana,MT,False,Jon Tester,democrat,253876,504384,0.5033387260499936
+Montana,MT,False,Rick Breckenridge,other,14545,504384,0.02883715581778962
+Montana,MT,False,Matt Rosendale,republican,235963,504384,0.46782411813221675
+Nebraska,NE,False,Deb Fischer,republican,403151,698883,0.576850488565325
+Nebraska,NE,False,Jane Raybould,democrat,269917,698883,0.38621199828869784
+Nebraska,NE,False,Jim Schultz,other,25349,698883,0.03627073487264678
+Nebraska,NE,False,,other,466,698883,0.0006667782733304431
+Nevada,NV,False,Jacky Rosen,democrat,490071,972132,0.5041198108898791
+Nevada,NV,False,Dean Heller,republican,441202,972132,0.4538498886982426
+Nevada,NV,False,None of these Candidates,other,15303,972132,0.01574168940020491
+Nevada,NV,False,Barry Michaels,other,9269,972132,0.009534713392831426
+Nevada,NV,False,Tim Hagan,other,9196,972132,0.00945962070994474
+Nevada,NV,False,Kamau A. Bakari,other,7091,972132,0.007294276908897146
+New Jersey,NJ,False,Robert Menendez,democrat,1711654,3169310,0.5400714982125446
+New Jersey,NJ,False,Bob Hugin,republican,1357355,3169310,0.42828091919061245
+New Jersey,NJ,False,Madelyn R. Hoffman,other,25150,3169310,0.00793548122461987
+New Jersey,NJ,False,Murray Sabrin,other,21212,3169310,0.006692939472629689
+New Jersey,NJ,False,Natalie Lynn Rivera,other,19897,3169310,0.006278022661083959
+New Jersey,NJ,False,Tricia Flanagan,other,16101,3169310,0.005080285614218868
+New Jersey,NJ,False,Kevin Kimple,other,9087,3169310,0.0028671856019133503
+New Jersey,NJ,False,Hank Schroeder,other,8854,3169310,0.0027936680223771106
+New Mexico,NM,False,Martin T Heinrich,democrat,376998,697012,0.540877345009842
+New Mexico,NM,False,Gary E Johnson,other,107201,697012,0.15380079539520122
+New Mexico,NM,False,Mick Rich,republican,212813,697012,0.3053218595949568
+New York,NY,False,Kirsten E. Gillibrand,democrat,3755489,6055151,0.6202139302554139
+New York,NY,False,Chele Chiavacci Farley,republican,1730439,6055151,0.2857796609861587
+New York,NY,False,Chele Chiavacci Farley,other,246171,6055151,0.04065480778266306
+New York,NY,False,Kirsten E. Gillibrand,other,160128,6055151,0.026444922678228833
+New York,NY,False,Kirsten E. Gillibrand,other,99325,6055151,0.016403389444788412
+New York,NY,False,Kirsten E. Gillibrand,other,41989,6055151,0.0069344265733422665
+New York,NY,False,Chele Chiavacci Farley,other,21610,6055151,0.003568862279404758
+North Dakota,ND,False,Kevin Cramer,republican,179720,326138,0.5510550748456176
+North Dakota,ND,False,Heidi Heitkamp,other,144376,326138,0.44268377190023855
+North Dakota,ND,False,,other,2042,326138,0.006261153254143952
+Ohio,OH,False,Sherrod Brown,democrat,2355923,4410898,0.5341141418368777
+Ohio,OH,False,,other,1012,4410898,0.00022943173929662397
+Ohio,OH,False,Jim Renacci,republican,2053963,4410898,0.4656564264238257
+Pennsylvania,PA,False,Robert P Casey Jr,democrat,2777680,4994643,0.5561318396530043
+Pennsylvania,PA,False,Louis J. Barletta,republican,2134848,4994643,0.427427545872648
+Pennsylvania,PA,False,Neal Taylor Gale,other,31208,4994643,0.006248294422644421
+Pennsylvania,PA,False,Dale R Kerns Jr,other,50907,4994643,0.010192320051703395
+Rhode Island,RI,False,Sheldon Whitehouse,democrat,231477,376738,0.614424347955343
+Rhode Island,RI,False,"Robert G. Flanders, Jr.",republican,144421,376738,0.3833459858044583
+Rhode Island,RI,False,,other,840,376738,0.002229666240198759
+Tennessee,TN,False,Marsha Blackburn,republican,1227483,2243740,0.5470700705072781
+Tennessee,TN,False,Phil Bredesen,democrat,985450,2243740,0.43919972902386195
+Tennessee,TN,False,Trudy A. Austin,other,9455,2243740,0.0042139463574210915
+Tennessee,TN,False,John Carico,other,3398,2243740,0.0015144357189335663
+Tennessee,TN,False,Dean Hill,other,8717,2243740,0.003885031242479075
+Tennessee,TN,False,Kevin Lee McCants,other,1927,2243740,0.0008588339112374874
+Tennessee,TN,False,Breton Phillips,other,2226,2243740,0.000992093558077139
+Tennessee,TN,False,Kris L. Todd,other,5084,2243740,0.0022658596807116687
+Texas,TX,False,Ted Cruz,republican,4260553,8371655,0.508926012837366
+Texas,TX,False,Beto O'Rourke,democrat,4045632,8371655,0.4832535502239402
+Texas,TX,False,Neal M. Dikeman,other,65470,8371655,0.007820436938693723
+Utah,UT,False,Mitt Romney,republican,665215,1062845,0.6258814784846333
+Utah,UT,False,Jenny Wilson,democrat,328541,1062845,0.3091146874661875
+Utah,UT,False,Tim Aalders,other,28774,1062845,0.02707262112537576
+Utah,UT,False,Craig R. Bowden,other,27607,1062845,0.025974624710094135
+Utah,UT,False,Reed C. McCandless,other,12708,1062845,0.011956588213709431
+Vermont,VT,False,Folasade Adeluola,other,1979,272624,0.00725908210575738
+Vermont,VT,False,Russell Beste,other,2763,272624,0.010134837725218617
+Vermont,VT,False,Bruce Busa,other,914,272624,0.0033526028522800635
+Vermont,VT,False,Edward S. Gilbert Jr,other,2244,272624,0.008231116849580375
+Vermont,VT,False,Reid Kane,other,1171,272624,0.004295293151006514
+Vermont,VT,False,Brad J. Peacock,other,3787,272624,0.01389092669757615
+Vermont,VT,False,Bernie Sanders,other,183529,272624,0.6731945830154352
+Vermont,VT,False,Jon Svitavsky,other,1280,272624,0.004695111215446916
+Vermont,VT,False,Lawrence Zupan,republican,74663,272624,0.27386803803040083
+Vermont,VT,False,,other,294,272624,0.0010784083572979635
+Virginia,VA,False,Corey A. Stewart,republican,1374313,3351373,0.4100746171792874
+Virginia,VA,False,Timothy M. Kaine,democrat,1910370,3351373,0.5700260758799454
+Virginia,VA,False,Matt J. Waters,other,61565,3351373,0.018370082948093214
+Virginia,VA,False,,other,5125,3351373,0.0015292239926740473
+Washington,WA,False,Maria Cantwell,democrat,1803364,3086168,0.5843375992492955
+Washington,WA,False,Susan Hutchison,republican,1282804,3086168,0.41566240075070443
+West Virginia,WV,False,Joe Manchin,democrat,288808,582911,0.4954581402649804
+West Virginia,WV,False,Patrick Morrisey,republican,269872,582911,0.46297290667014346
+West Virginia,WV,False,Rusty Hollen,other,24231,582911,0.04156895306487611
+Wisconsin,WI,False,Tammy Baldwin,democrat,1472914,2657841,0.5541768676154819
+Wisconsin,WI,False,Leah Vukmir,republican,1184885,2657841,0.44580733008483203
+Wisconsin,WI,False,,other,42,2657841,1.5802299686098605e-05
+Wyoming,WY,False,John Barrasso,republican,136210,203420,0.669599842690001
+Wyoming,WY,False,Gary Trauner,democrat,61227,203420,0.30098810343132437
+Wyoming,WY,False,Joseph Porambo,other,5658,203420,0.02781437420116016
+Wyoming,WY,False,,other,325,203420,0.001597679677514502
