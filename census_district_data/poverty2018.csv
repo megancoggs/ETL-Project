@@ -1,0 +1,437 @@
+State,District Number,Congressional District,Total Population,Above Poverty Level,Below Poverty Level
+Alabama,1,Alabama-1,544464,532906,76483
+Alabama,2,Alabama-2,516295,498215,75815
+Alabama,3,Alabama-3,543854,526264,88748
+Alabama,4,Alabama-4,515701,509407,70775
+Alabama,5,Alabama-5,551968,537668,61196
+Alabama,6,Alabama-6,535753,524830,48300
+Alabama,7,Alabama-7,504177,481363,103655
+Alaska,At-large,Alaska-At-large,532244,519019,51051
+Arizona,1,Arizona-1,568661,536962,89883
+Arizona,2,Arizona-2,550044,533913,62901
+Arizona,3,Arizona-3,500787,478150,72311
+Arizona,4,Arizona-4,633528,610113,68749
+Arizona,5,Arizona-5,587681,586067,37227
+Arizona,6,Arizona-6,577899,576110,44701
+Arizona,7,Arizona-7,454957,447394,67279
+Arizona,8,Arizona-8,599423,589749,38999
+Arizona,9,Arizona-9,562791,552135,60388
+Arkansas,1,Arkansas-1,548710,522923,89589
+Arkansas,2,Arkansas-2,570220,555802,75688
+Arkansas,3,Arkansas-3,573113,557687,67436
+Arkansas,4,Arkansas-4,532069,514124,86232
+California,1,California-1,553702,534889,77504
+California,2,California-2,534951,522186,53649
+California,3,California-3,504299,489655,65293
+California,4,California-4,573118,562791,44632
+California,5,California-5,508369,501445,41040
+California,6,California-6,506434,499803,64734
+California,7,California-7,537436,530517,50715
+California,8,California-8,477512,465044,68015
+California,9,California-9,482967,473224,50332
+California,10,California-10,493409,488503,51924
+California,11,California-11,508963,503806,35217
+California,12,California-12,571300,563530,54323
+California,13,California-13,536892,523587,59812
+California,14,California-14,511049,505623,30509
+California,15,California-15,503361,498277,24930
+California,16,California-16,423147,406162,81954
+California,17,California-17,438374,430314,28312
+California,18,California-18,491580,480245,28612
+California,19,California-19,482363,477211,36308
+California,20,California-20,434889,411682,38475
+California,21,California-21,354669,323856,57483
+California,22,California-22,483064,478408,58757
+California,23,California-23,490446,477323,75310
+California,24,California-24,508333,478763,60133
+California,25,California-25,482964,475581,48804
+California,26,California-26,480928,471915,33106
+California,27,California-27,471963,463381,41601
+California,28,California-28,502971,499140,53429
+California,29,California-29,402898,399807,45157
+California,30,California-30,529846,523743,43908
+California,31,California-31,482081,464860,51108
+California,32,California-32,449452,441456,38130
+California,33,California-33,517251,500426,37349
+California,34,California-34,425520,408807,70687
+California,35,California-35,450565,440052,41460
+California,36,California-36,536333,528270,68097
+California,37,California-37,468463,459415,61771
+California,38,California-38,481296,474994,38012
+California,39,California-39,486713,482420,32182
+California,40,California-40,340435,338726,46300
+California,41,California-41,478613,463587,51104
+California,42,California-42,538265,533812,38700
+California,43,California-43,454185,448459,48133
+California,44,California-44,395819,391379,54905
+California,45,California-45,532802,524647,38768
+California,46,California-46,408633,397295,45856
+California,47,California-47,491712,486226,50414
+California,48,California-48,529832,528025,41904
+California,49,California-49,519302,502167,31322
+California,50,California-50,513522,508243,42991
+California,51,California-51,445034,417314,61130
+California,52,California-52,546843,523070,39255
+California,53,California-53,563962,555546,53727
+Colorado,1,Colorado-1,619349,607672,55734
+Colorado,2,Colorado-2,619285,599732,58303
+Colorado,3,Colorado-3,565901,552902,67233
+Colorado,4,Colorado-4,598599,583283,44288
+Colorado,5,Colorado-5,603967,575663,48574
+Colorado,6,Colorado-6,567801,562482,30122
+Colorado,7,Colorado-7,576138,567731,43603
+Connecticut,1,Connecticut-1,523004,513017,48741
+Connecticut,2,Connecticut-2,548572,512850,42018
+Connecticut,3,Connecticut-3,535024,511818,49435
+Connecticut,4,Connecticut-4,496370,485611,41943
+Connecticut,5,Connecticut-5,511395,498350,42611
+Delaware,At-large,Delaware-At-large,720867,698953,72431
+District of Columbia,At-large,District of Columbia-At-large,526393,497589,72562
+Florida,1,Florida-1,601423,573824,61279
+Florida,2,Florida-2,573718,531429,71752
+Florida,3,Florida-3,579993,550065,81167
+Florida,4,Florida-4,614794,600574,46523
+Florida,5,Florida-5,541992,515909,99897
+Florida,6,Florida-6,621566,612618,67142
+Florida,7,Florida-7,581583,558487,63702
+Florida,8,Florida-8,610604,604434,56876
+Florida,9,Florida-9,644898,637713,72873
+Florida,10,Florida-10,546157,539800,70483
+Florida,11,Florida-11,652135,637176,69985
+Florida,12,Florida-12,605983,596985,61058
+Florida,13,Florida-13,584889,574243,60632
+Florida,14,Florida-14,534225,523819,69743
+Florida,15,Florida-15,578715,570615,65321
+Florida,16,Florida-16,638769,631712,57125
+Florida,17,Florida-17,615104,602735,67861
+Florida,18,Florida-18,599873,594476,54001
+Florida,19,Florida-19,631233,622071,57652
+Florida,20,Florida-20,507613,495390,73896
+Florida,21,Florida-21,546101,542489,44811
+Florida,22,Florida-22,534846,529036,45187
+Florida,23,Florida-23,510212,508324,49339
+Florida,24,Florida-24,477697,467414,77269
+Florida,25,Florida-25,453055,447653,49424
+Florida,26,Florida-26,476033,467075,53344
+Florida,27,Florida-27,464604,457395,51044
+Georgia,1,Georgia-1,550713,528280,70331
+Georgia,2,Georgia-2,498322,464769,98551
+Georgia,3,Georgia-3,548941,537649,65079
+Georgia,4,Georgia-4,527938,523057,51138
+Georgia,5,Georgia-5,587385,551428,88065
+Georgia,6,Georgia-6,496468,493937,22372
+Georgia,7,Georgia-7,486845,482823,34298
+Georgia,8,Georgia-8,527338,508862,92521
+Georgia,9,Georgia-9,556967,545726,56373
+Georgia,10,Georgia-10,565803,542122,71163
+Georgia,11,Georgia-11,559687,548550,44203
+Georgia,12,Georgia-12,540482,507512,83972
+Georgia,13,Georgia-13,523476,518694,43146
+Georgia,14,Georgia-14,516434,504547,57895
+Hawaii,1,Hawaii-1,509992,495018,31466
+Hawaii,2,Hawaii-2,506514,491721,43163
+Idaho,1,Idaho-1,661724,646145,62534
+Idaho,2,Idaho-2,590690,582159,68775
+Illinois,1,Illinois-1,524114,514916,74766
+Illinois,2,Illinois-2,497132,489594,77321
+Illinois,3,Illinois-3,479004,470227,40182
+Illinois,4,Illinois-4,410804,408610,43427
+Illinois,5,Illinois-5,545831,536884,38711
+Illinois,6,Illinois-6,523796,515795,25904
+Illinois,7,Illinois-7,522767,499676,89468
+Illinois,8,Illinois-8,442009,437858,27635
+Illinois,9,Illinois-9,498242,482383,49348
+Illinois,10,Illinois-10,468255,449762,31798
+Illinois,11,Illinois-11,472244,466570,30188
+Illinois,12,Illinois-12,528398,510485,72726
+Illinois,13,Illinois-13,539012,503603,81940
+Illinois,14,Illinois-14,525729,523009,22704
+Illinois,15,Illinois-15,532371,509784,63091
+Illinois,16,Illinois-16,520730,504555,45055
+Illinois,17,Illinois-17,512994,492760,66654
+Illinois,18,Illinois-18,531334,513739,50132
+Indiana,1,Indiana-1,537218,522771,58981
+Indiana,2,Indiana-2,522778,503831,55923
+Indiana,3,Indiana-3,540022,529139,47924
+Indiana,4,Indiana-4,567094,541335,57075
+Indiana,5,Indiana-5,573500,559314,45920
+Indiana,6,Indiana-6,549035,529878,67700
+Indiana,7,Indiana-7,521076,509529,77616
+Indiana,8,Indiana-8,549149,525125,62903
+Indiana,9,Indiana-9,575308,553531,64247
+Iowa,1,Iowa-1,580187,558232,56396
+Iowa,2,Iowa-2,581525,560199,62112
+Iowa,3,Iowa-3,601044,588009,51444
+Iowa,4,Iowa-4,564463,536367,55271
+Kansas,1,Kansas-1,502712,474980,57226
+Kansas,2,Kansas-2,538594,513794,70225
+Kansas,3,Kansas-3,534532,529568,31937
+Kansas,4,Kansas-4,515676,503367,54144
+Kentucky,1,Kentucky-1,552530,528102,82046
+Kentucky,2,Kentucky-2,577362,557689,78440
+Kentucky,3,Kentucky-3,553926,541159,68708
+Kentucky,4,Kentucky-4,565232,551490,55545
+Kentucky,5,Kentucky-5,537877,517228,124355
+Kentucky,6,Kentucky-6,581992,560860,74703
+Louisiana,1,Louisiana-1,594231,582654,66838
+Louisiana,2,Louisiana-2,587115,567296,113301
+Louisiana,3,Louisiana-3,577604,566763,86760
+Louisiana,4,Louisiana-4,559310,540960,104441
+Louisiana,5,Louisiana-5,555804,513602,103696
+Louisiana,6,Louisiana-6,585015,575426,60246
+Maine,1,Maine-1,546625,533126,46725
+Maine,2,Maine-2,524036,509879,67713
+Maryland,1,Maryland-1,567926,552884,42578
+Maryland,2,Maryland-2,560167,543593,51775
+Maryland,3,Maryland-3,545892,528919,36310
+Maryland,4,Maryland-4,503398,499442,29106
+Maryland,5,Maryland-5,556897,538164,32040
+Maryland,6,Maryland-6,523698,503145,41902
+Maryland,7,Maryland-7,528398,509441,70189
+Maryland,8,Maryland-8,533774,525419,27438
+Massachusetts,1,Massachusetts-1,568024,546653,65836
+Massachusetts,2,Massachusetts-2,558962,522617,45937
+Massachusetts,3,Massachusetts-3,543580,529486,45122
+Massachusetts,4,Massachusetts-4,559943,538159,33098
+Massachusetts,5,Massachusetts-5,535109,513186,30239
+Massachusetts,6,Massachusetts-6,577241,562214,40491
+Massachusetts,7,Massachusetts-7,558430,516378,78640
+Massachusetts,8,Massachusetts-8,561241,547326,34217
+Massachusetts,9,Massachusetts-9,573274,562197,47427
+Michigan,1,Michigan-1,564858,546107,65586
+Michigan,2,Michigan-2,551323,534886,55290
+Michigan,3,Michigan-3,551028,537073,55617
+Michigan,4,Michigan-4,554938,531080,71584
+Michigan,5,Michigan-5,520558,515340,80779
+Michigan,6,Michigan-6,541981,531118,64711
+Michigan,7,Michigan-7,548462,528311,48683
+Michigan,8,Michigan-8,554462,536158,50669
+Michigan,9,Michigan-9,552114,547797,58611
+Michigan,10,Michigan-10,553804,547765,49350
+Michigan,11,Michigan-11,534817,529991,31151
+Michigan,12,Michigan-12,526943,509760,71305
+Michigan,13,Michigan-13,474739,469472,115844
+Michigan,14,Michigan-14,512851,504057,86226
+Minnesota,1,Minnesota-1,500330,482916,47096
+Minnesota,2,Minnesota-2,511914,503107,27606
+Minnesota,3,Minnesota-3,517834,514568,23532
+Minnesota,4,Minnesota-4,510862,496836,46437
+Minnesota,5,Minnesota-5,517155,503118,61661
+Minnesota,6,Minnesota-6,525551,515433,32509
+Minnesota,7,Minnesota-7,495727,482844,45244
+Minnesota,8,Minnesota-8,527541,512566,58844
+Mississippi,1,Mississippi-1,577880,559338,74040
+Mississippi,2,Mississippi-2,523479,496061,101273
+Mississippi,3,Mississippi-3,559913,539427,94524
+Mississippi,4,Mississippi-4,579386,560746,97084
+Missouri,1,Missouri-1,549361,534195,86150
+Missouri,2,Missouri-2,575828,565960,24873
+Missouri,3,Missouri-3,602748,585685,43942
+Missouri,4,Missouri-4,584925,553519,79363
+Missouri,5,Missouri-5,573775,563867,62939
+Missouri,6,Missouri-6,583457,558571,50539
+Missouri,7,Missouri-7,595559,578418,81695
+Missouri,8,Missouri-8,567717,545199,87592
+Montana,At-large,Montana-At-large,823668,804355,97803
+Nebraska,1,Nebraska-1,473676,457270,45705
+Nebraska,2,Nebraska-2,467041,456667,41176
+Nebraska,3,Nebraska-3,439543,424327,43757
+Nevada,1,Nevada-1,418811,412668,75734
+Nevada,2,Nevada-2,531489,521800,45749
+Nevada,3,Nevada-3,607915,606083,42769
+Nevada,4,Nevada-4,516951,505533,55887
+New Hampshire,1,New Hampshire-1,540224,523141,35655
+New Hampshire,2,New Hampshire-2,529588,510009,33260
+New Jersey,1,New Jersey-1,542034,533571,53128
+New Jersey,2,New Jersey-2,531339,513349,49849
+New Jersey,3,New Jersey-3,570276,558203,30679
+New Jersey,4,New Jersey-4,539643,533840,31194
+New Jersey,5,New Jersey-5,527932,517601,22025
+New Jersey,6,New Jersey-6,502463,475444,37453
+New Jersey,7,New Jersey-7,527076,520070,20223
+New Jersey,8,New Jersey-8,425604,420513,47592
+New Jersey,9,New Jersey-9,481499,479380,49046
+New Jersey,10,New Jersey-10,496051,480735,65422
+New Jersey,11,New Jersey-11,548734,536031,21125
+New Jersey,12,New Jersey-12,505683,489002,36428
+New Mexico,1,New Mexico-1,514775,508282,73116
+New Mexico,2,New Mexico-2,484702,467832,84825
+New Mexico,3,New Mexico-3,507907,499664,89207
+New York,1,New York-1,530436,519175,31046
+New York,2,New York-2,515987,512695,31530
+New York,3,New York-3,521235,512317,25261
+New York,4,New York-4,506457,497226,23349
+New York,5,New York-5,501784,493643,47721
+New York,6,New York-6,448065,443584,41855
+New York,7,New York-7,446196,439774,79879
+New York,8,New York-8,540660,534467,96821
+New York,9,New York-9,486880,483155,61616
+New York,10,New York-10,473542,458508,57042
+New York,11,New York-11,500998,495306,54201
+New York,12,New York-12,530252,513697,48742
+New York,13,New York-13,505003,497817,109993
+New York,14,New York-14,392398,380258,44703
+New York,15,New York-15,410819,405180,121432
+New York,16,New York-16,498243,485031,51192
+New York,17,New York-17,502861,489310,36680
+New York,18,New York-18,524373,505373,38590
+New York,19,New York-19,553713,527441,58461
+New York,20,New York-20,557251,532729,50906
+New York,21,New York-21,551303,516373,54118
+New York,22,New York-22,539437,510768,64552
+New York,23,New York-23,544564,510456,70217
+New York,24,New York-24,539797,514966,58584
+New York,25,New York-25,543698,523100,68088
+New York,26,New York-26,539694,523261,72530
+New York,27,New York-27,564383,545584,42730
+North Carolina,1,North Carolina-1,566173,536378,89085
+North Carolina,2,North Carolina-2,601142,593495,42953
+North Carolina,3,North Carolina-3,579504,545792,72185
+North Carolina,4,North Carolina-4,624834,596963,56009
+North Carolina,5,North Carolina-5,572721,550670,76313
+North Carolina,6,North Carolina-6,567392,555732,62094
+North Carolina,7,North Carolina-7,613510,598995,81576
+North Carolina,8,North Carolina-8,581896,560326,64418
+North Carolina,9,North Carolina-9,561804,548599,56464
+North Carolina,10,North Carolina-10,585102,572654,70692
+North Carolina,11,North Carolina-11,604505,591536,74390
+North Carolina,12,North Carolina-12,591843,581131,54940
+North Carolina,13,North Carolina-13,579274,560122,65082
+North Dakota,At-large,North Dakota-At-large,567351,546513,57163
+Ohio,1,Ohio-1,541695,522774,61323
+Ohio,2,Ohio-2,557971,550012,65318
+Ohio,3,Ohio-3,560963,543140,87584
+Ohio,4,Ohio-4,542874,517764,53877
+Ohio,5,Ohio-5,549171,533728,49753
+Ohio,6,Ohio-6,545803,526363,78256
+Ohio,7,Ohio-7,557024,544781,55197
+Ohio,8,Ohio-8,546406,532437,53264
+Ohio,9,Ohio-9,545749,534835,89928
+Ohio,10,Ohio-10,552514,526770,71539
+Ohio,11,Ohio-11,524803,507302,107065
+Ohio,12,Ohio-12,585940,569339,49050
+Ohio,13,Ohio-13,559931,541535,80108
+Ohio,14,Ohio-14,553668,544116,36742
+Ohio,15,Ohio-15,586092,556465,61556
+Ohio,16,Ohio-16,553316,543064,33622
+Oklahoma,1,Oklahoma-1,565812,558168,62121
+Oklahoma,2,Oklahoma-2,564213,543589,91676
+Oklahoma,3,Oklahoma-3,571661,545818,71757
+Oklahoma,4,Oklahoma-4,589702,563986,66997
+Oklahoma,5,Oklahoma-5,561277,547860,72937
+Oregon,1,Oregon-1,606198,596872,48348
+Oregon,2,Oregon-2,619186,605564,73367
+Oregon,3,Oregon-3,627716,616973,65208
+Oregon,4,Oregon-4,638548,626815,96381
+Oregon,5,Oregon-5,606523,595610,60545
+Pennsylvania,1,Pennsylvania-1,544860,537518,27607
+Pennsylvania,2,Pennsylvania-2,496510,487446,105114
+Pennsylvania,3,Pennsylvania-3,564612,538968,113844
+Pennsylvania,4,Pennsylvania-4,543723,528636,28462
+Pennsylvania,5,Pennsylvania-5,519983,498676,45199
+Pennsylvania,6,Pennsylvania-6,522912,507935,39976
+Pennsylvania,7,Pennsylvania-7,552078,533234,53161
+Pennsylvania,8,Pennsylvania-8,535133,516034,59557
+Pennsylvania,9,Pennsylvania-9,555775,528749,49237
+Pennsylvania,10,Pennsylvania-10,552761,531726,46291
+Pennsylvania,11,Pennsylvania-11,553568,543005,37367
+Pennsylvania,12,Pennsylvania-12,551022,516051,66048
+Pennsylvania,13,Pennsylvania-13,545111,523708,52637
+Pennsylvania,14,Pennsylvania-14,551164,534212,50791
+Pennsylvania,15,Pennsylvania-15,548615,519562,57901
+Pennsylvania,16,Pennsylvania-16,539710,513587,64498
+Pennsylvania,17,Pennsylvania-17,559285,552462,41481
+Pennsylvania,18,Pennsylvania-18,544390,522202,71545
+Rhode Island,1,Rhode Island-1,395409,376196,49877
+Rhode Island,2,Rhode Island-2,407668,391434,33551
+South Carolina,1,South Carolina-1,613912,605071,53615
+South Carolina,2,South Carolina-2,537342,520411,57271
+South Carolina,3,South Carolina-3,534772,517074,70663
+South Carolina,4,South Carolina-4,533533,518231,50729
+South Carolina,5,South Carolina-5,552247,541112,65432
+South Carolina,6,South Carolina-6,506843,469768,95495
+South Carolina,7,South Carolina-7,571428,558493,89683
+South Dakota,At-large,South Dakota-At-large,647089,623323,73236
+Tennessee,1,Tennessee-1,563918,549414,75115
+Tennessee,2,Tennessee-2,583056,568291,67235
+Tennessee,3,Tennessee-3,571456,554284,73597
+Tennessee,4,Tennessee-4,590540,576455,71929
+Tennessee,5,Tennessee-5,563797,545555,62163
+Tennessee,6,Tennessee-6,591603,580485,63405
+Tennessee,7,Tennessee-7,578288,561453,61291
+Tennessee,8,Tennessee-8,525277,508600,59907
+Tennessee,9,Tennessee-9,507231,494516,104034
+Texas,1,Texas-1,511974,489794,66257
+Texas,2,Texas-2,520180,513178,45949
+Texas,3,Texas-3,563318,559484,31157
+Texas,4,Texas-4,543354,527224,60598
+Texas,5,Texas-5,480610,457691,49171
+Texas,6,Texas-6,554709,548599,40104
+Texas,7,Texas-7,448262,447412,32347
+Texas,8,Texas-8,584039,554256,51546
+Texas,9,Texas-9,445634,443690,60975
+Texas,10,Texas-10,593629,583103,45323
+Texas,11,Texas-11,542570,524915,56229
+Texas,12,Texas-12,572411,560045,51359
+Texas,13,Texas-13,493390,462703,54698
+Texas,14,Texas-14,532153,501418,55633
+Texas,15,Texas-15,435170,423944,69316
+Texas,16,Texas-16,458940,446926,66463
+Texas,17,Texas-17,550601,522495,86479
+Texas,18,Texas-18,480387,462858,75981
+Texas,19,Texas-19,509891,478854,73898
+Texas,20,Texas-20,549483,538664,78203
+Texas,21,Texas-21,622228,609561,62856
+Texas,22,Texas-22,577164,572542,37033
+Texas,23,Texas-23,507547,495087,64674
+Texas,24,Texas-24,503766,501043,27589
+Texas,25,Texas-25,570238,538733,49268
+Texas,26,Texas-26,605249,596433,37984
+Texas,27,Texas-27,517267,504347,66523
+Texas,28,Texas-28,434305,431020,71215
+Texas,29,Texas-29,369239,368373,53056
+Texas,30,Texas-30,479082,466444,80570
+Texas,31,Texas-31,602236,588627,45276
+Texas,32,Texas-32,505867,501485,33312
+Texas,33,Texas-33,360226,356444,57028
+Texas,34,Texas-34,424863,410889,76627
+Texas,35,Texas-35,532967,519488,89634
+Texas,36,Texas-36,519385,500765,53382
+Utah,1,Utah-1,521517,515287,40922
+Utah,2,Utah-2,529608,518139,54116
+Utah,3,Utah-3,517848,505535,48167
+Utah,4,Utah-4,518368,513240,27894
+Vermont,At-large,Vermont-At-large,500274,478729,51013
+Virginia,1,Virginia-1,590281,575553,32713
+Virginia,2,Virginia-2,559397,525667,39039
+Virginia,3,Virginia-3,559137,534234,67289
+Virginia,4,Virginia-4,579606,552122,69142
+Virginia,5,Virginia-5,578531,549679,71010
+Virginia,6,Virginia-6,582756,551076,74487
+Virginia,7,Virginia-7,588061,579054,42425
+Virginia,8,Virginia-8,533417,528006,29010
+Virginia,9,Virginia-9,567315,537046,101298
+Virginia,10,Virginia-10,565197,561118,18701
+Virginia,11,Virginia-11,509988,503481,28904
+Washington,1,Washington-1,519555,513626,31799
+Washington,2,Washington-2,558321,547881,51230
+Washington,3,Washington-3,544994,540961,46668
+Washington,4,Washington-4,443137,436739,48302
+Washington,5,Washington-5,551532,528622,71510
+Washington,6,Washington-6,570991,555996,50470
+Washington,7,Washington-7,600321,585893,51450
+Washington,8,Washington-8,522952,518688,34677
+Washington,9,Washington-9,499184,492776,44073
+Washington,10,Washington-10,544552,533246,46965
+West Virginia,1,West Virginia-1,486327,467069,68380
+West Virginia,2,West Virginia-2,487208,477780,65445
+West Virginia,3,West Virginia-3,457623,444168,88765
+Wisconsin,1,Wisconsin-1,539789,527799,43388
+Wisconsin,2,Wisconsin-2,577976,563251,59134
+Wisconsin,3,Wisconsin-3,566700,539696,65049
+Wisconsin,4,Wisconsin-4,493143,478705,89003
+Wisconsin,5,Wisconsin-5,558805,548155,34963
+Wisconsin,6,Wisconsin-6,556485,535367,44006
+Wisconsin,7,Wisconsin-7,552651,542845,48200
+Wisconsin,8,Wisconsin-8,556205,544705,41391
+Wyoming,At-large,Wyoming-At-large,433644,422610,42105
