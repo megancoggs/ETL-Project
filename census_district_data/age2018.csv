@@ -1,4 +1,4 @@
-State Abbreviation,State,District Number,Voting-Age Population,18-29 Years Old,30-44 Years Old,45-64 Years Old,65+ Years Old,Congressional District
+state_abbreviation,state,district_number,voting_age_population,age_18_29_years_old,age_30_44_years_old,age_45_64_years_old,age_65_and_older,congressional_district
 AL,Alabama,1,544464,104060,125900,188031,126473,AL-1
 AL,Alabama,2,516295,109222,118999,173351,114723,AL-2
 AL,Alabama,3,543854,121328,121212,182379,118935,AL-3
