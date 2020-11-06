@@ -1,20 +1,20 @@
 DROP TABLE IF EXISTS unemployment;
-DROP TABLE IF EXISTS house
+DROP TABLE IF EXISTS house;
 DROP TABLE IF EXISTS senate;
-DROP TABLE IF EXISTS pres;
+DROP TABLE IF EXISTS president;
 DROP TABLE IF EXISTS demographics;
 
 CREATE TABLE unemployment (
-    State VARCHAR(30) PRIMARY KEY,
-    [2016 rate] FLOAT,
-    [2016 Rank] INT,
-    [2018 rate] FLOAT,
-    [2018 Rank] INT
+    state VARCHAR(30) PRIMARY KEY,
+    rate_2016 FLOAT,
+    rank_2016 INT,
+    rate_2018 FLOAT,
+    rank_2018 INT
 );
 
 CREATE TABLE house (
     year INT,
-    congressional_district VARCHAR(5),
+    congressional_district VARCHAR(30),
     state VARCHAR(30),
     state_abbreviation VARCHAR(2),
     district_number INT,
@@ -46,49 +46,48 @@ CREATE TABLE president (
     year INT,
     state VARCHAR(30),
     state_abbreviation VARCHAR(2),
-    county VARCHAR(30),
-    office VARCHAR(30),
+    county VARCHAR (30),
+    office VARCHAR (30),
     candidate VARCHAR(50),
     party VARCHAR(50),
     candidate_votes INT,
     total_votes INT,
     candidate_percent FLOAT,
     FOREIGN KEY (state) REFERENCES unemployment(state),
-    PRIMARY KEY (year, state, county, candidate, party)
+    PRIMARY KEY (state, county, candidate, party)
 );
 
 CREATE TABLE demographics (
-    State VARCHAR(30),
-    [State Abbreviation] VARCHAR(2),
-    [District Number] INT,
-    [Congressional District] VARCHAR(5) PRIMARY KEY,
-    [Voting-Age Population] INT,
-    [18-29 Years Old] INT,
-    [30-44 Years Old] INT,
-    [30-44 Years Old] INT,
-    [45-64 Years Old] INT,
-    [65+ Years Old] INT,
-    Men INT,
-    Women INT
-    [Above Poverty Level] INT,
-    [Below Poverty Level] INT,
-    [Less than 9th Grade] INT,
-    [9th to 12 Grade, No Diploma] INT,
-    [High School Graduate] INT,
-    [Some College, No Degree] INT,
-    [Associate's Degree] INT,
-    [Bachelor's Degree] INT,
-    [Graduate Degree] INT,
-    [High School or More] INT,
-    [Bachelor's Degree or More] INT,
-    White INT,
-    Black INT,
-    Asian INT,
-    [American Indian and Alaska Native] INT,
-    [Native Hawaiian and Other Pacific Islander] INT,
-    [Some Other Race] INT,
-    [Two or More Races] INT,
-    Hispanic INT,
-    [White Non-Hispanic] INT,
-    FOREIGN KEY (State) REFERENCES unemployment(State),
+    state VARCHAR(30),
+    state_abbreviation VARCHAR(2),
+    district_number INT,
+    congressional_district VARCHAR(30) PRIMARY KEY,
+    voting_age_population INT,
+    age_18_29_years_old INT,
+    age_30_44_years_old INT,
+    age_45_64_years_old INT,
+    age_65_and_older INT,
+    men INT,
+    women INT,
+    above_poverty_level INT,
+    below_poverty_level INT,
+    less_than_9th_grade INT,
+    high_school_no_diploma INT,
+    high_school_graduate INT,
+    some_college_no_degree INT,
+    associates_degree INT,
+    bachelors_degree INT,
+    graduate_degree INT,
+    high_school_or_more INT,
+    bachelors_degree_or_more INT,
+    white INT,
+    black INT,
+    asian INT,
+    american_indian_and_alaska_native INT,
+    native_hawaiian_and_other_pacific_islander INT,
+    some_other_race INT,
+    two_or_more_races INT,
+    hispanic INT,
+    white_non_hispanic INT,
+    FOREIGN KEY (state) REFERENCES unemployment(state)
 );
