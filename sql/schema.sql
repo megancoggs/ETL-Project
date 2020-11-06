@@ -13,48 +13,48 @@ CREATE TABLE unemployment (
 );
 
 CREATE TABLE house (
-    Year INT,
-    [Congressional District] VARCHAR(5),
-    State VARCHAR(30),
-    [State Abbreviation] VARCHAR(2),
-    District Number INT,
-    [Special Election] BOOLEAN,
-    Candidate VARCHAR(50),
-    Party VARCHAR(50),
-    [Candidate Votes] INT,
-    [Total Votes] INT,
-    [Candidate Percent] FLOAT
-    FOREIGN KEY (State) REFERENCES unemployment(State),
-    PRIMARY KEY (Year, [Congressional District], Candidate, Party)
+    year INT,
+    congressional_district VARCHAR(5),
+    state VARCHAR(30),
+    state_abbreviation VARCHAR(2),
+    district_number INT,
+    special_election BOOLEAN,
+    candidate VARCHAR(50),
+    party VARCHAR(50),
+    candidate_votes INT,
+    total_votes INT,
+    candidate_percent FLOAT,
+    FOREIGN KEY (state) REFERENCES unemployment(state),
+    PRIMARY KEY (Year, congressional_district, candidate, party)
 );
 
 CREATE TABLE senate (
-    Year INT,
-    State VARCHAR(30),
-    [State Abbreviation] VARCHAR(2),
-    [Special Election] BOOLEAN,
-    Candidate VARCHAR(50),
-    Party VARCHAR(50);
-    [Candidate Votes] INT,
-    [Total Votes] INT,
-    [Candidate Percent] FLOAT,
-    FOREIGN KEY (State) REFERENCES unemployment(State),
-    PRIMARY KEY (Year, State, Candidate, Party)
+    year INT,
+    state VARCHAR(30),
+    state_abbreviation VARCHAR(2),
+    special_election BOOLEAN,
+    candidate VARCHAR(50),
+    party VARCHAR(50);
+    candidate_votes INT,
+    total_votes] INT,
+    candidate_percent] FLOAT,
+    FOREIGN KEY (state) REFERENCES unemployment(state),
+    PRIMARY KEY (year, state, candidate, party)
 );
 
-CREATE TABLE pres(
-    Year INT,
-    State VARCHAR(30),
-    [State Abbreviation] VARCHAR(2),
-    County VARCHAR(30),
-    Office VARCHAR(30),
-    Candidate VARCHAR(50),
-    Party VARCHAR(50),
-    [Candidate Votes] INT,
-    [Total Votes] INT,
-    [Candidate Percent] FLOAT,
-    FOREIGN KEY (State) REFERENCES unemployment(State),
-    PRIMARY KEY (Year, State, County, Candidate, Party)
+CREATE TABLE president(
+    year INT,
+    state VARCHAR(30),
+    state_abbreviation VARCHAR(2),
+    county VARCHAR(30),
+    office VARCHAR(30),
+    candidate VARCHAR(50),
+    party VARCHAR(50),
+    candidate_votes INT,
+    total_votes INT,
+    candidate_percent FLOAT,
+    FOREIGN KEY (state) REFERENCES unemployment(state),
+    PRIMARY KEY (year, state, county, candidate, party)
 );
 
 CREATE TABLE demographics (
