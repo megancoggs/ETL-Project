@@ -1,4 +1,4 @@
-State Abbreviation,State,District Number,Voting-Age Population,Men,Women,Above Poverty Level,Below Poverty Level,Congressional District
+state_abbreviation,state,district_number,voting_age_population,men,women,above_poverty_level,below_poverty_level,congressional_district
 AL,Alabama,1,544464,256603,287861,532906,76483,AL-1
 AL,Alabama,2,516295,243971,272324,498215,75815,AL-2
 AL,Alabama,3,543854,261066,282788,526264,88748,AL-3
