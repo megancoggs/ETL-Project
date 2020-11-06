@@ -1,4 +1,4 @@
-State Abbreviation,State,District Number,Voting-Age Population,Less than 9th Grade,"9th to 12 Grade, No Diploma",High School Graduate,"Some College, No Degree",Associate's Degree,Bachelor's Degree,Graduate Degree,High School or More,Bachelor's Degree or More,Congressional District
+state_abbreviation,state,district_number,voting_age_population,less_than_9th_grade,high_school_no_diploma,high_school_graduate,some_college_no_degree,associates_degree,bachelors_degree,graduate_degree,high_school_or_more,bachelors_degree_or_more,congressional_district
 AL,Alabama,1,544464,13409,57234,185503,122236,42603,82971,40508,473821,123479,AL-1
 AL,Alabama,2,516295,18295,53192,172427,119350,45677,69082,38272,444808,107354,AL-2
 AL,Alabama,3,543854,19578,56833,174209,142705,45713,63916,40900,467443,104816,AL-3

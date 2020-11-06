@@ -1,4 +1,4 @@
-State Abbreviation,State,District Number,Voting-Age Population,White,Black,Asian,American Indian and Alaska Native,Native Hawaiian and Other Pacific Islander,Some Other Race,Two or More Races,Hispanic,White Non-Hispanic,Congressional District
+state_abbreviation,state,district_number,voting_age_population,white,black,asian,american_indian_and_alaska_native,native_hawaiian_and_other_pacific_islander,some_other_race,two_or_more_races,hispanic,white_non_hispanic,congressional_district
 AL,Alabama,1,544464,379018,144187,6506,N,N,2884,7325,11678,370443,AL-1
 AL,Alabama,2,516295,338162,162707,3817,N,N,1818,7705,9755,331192,AL-2
 AL,Alabama,3,543854,390539,139026,4028,N,N,2448,6754,12241,381547,AL-3
