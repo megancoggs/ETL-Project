@@ -1,4 +1,4 @@
-Year,State,State Abbreviation,County,Office,Candidate,Party,Candidate Votes,Total Votes,Candidate Percent
+year,state,state_abbreviation,county,office,candidate,party,candidate_votes,total_votes,candidate_percent
 2016,Alabama,AL,Autauga,President,Hillary Clinton,democrat,5936.0,24973,0.2376967124494454
 2016,Alabama,AL,Autauga,President,Donald Trump,republican,18172.0,24973,0.7276658791494814
 2016,Alabama,AL,Autauga,President,Other,other,865.0,24973,0.03463740840107316

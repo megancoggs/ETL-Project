@@ -1,4 +1,4 @@
-Year,Congressional District,State,State Abbreviation,District Number,Special Election,Candidate,Party,Candidate Votes,Total Votes,Candidate Percent
+year,congressional_district,state,state_abbreviation,district_number,special_election,candidate,party,candidate_votes,total_votes,candidate_percent
 2016,AL-1,Alabama,AL,1,False,Bradley Byrne,republican,208083,215893,0.9638246724071646
 2016,AL-1,Alabama,AL,1,False,,other,7810,215893,0.03617532759283534
 2016,AL-2,Alabama,AL,2,False,Nathan Mathis,democrat,112089,276584,0.40526205420414774

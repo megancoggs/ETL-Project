@@ -1,4 +1,4 @@
-Year,State,State Abbreviation,District Number,Special Election,Candidate,Party,Candidate Votes,Total Votes,Candidate Percent
+year,state,state_abbreviation,district_number,special_election,candidate,party,candidate_votes,total_votes,candidate_percent
 2016,Alabama,AL,statewide,False,Ron Crumpton,democrat,748709,2087444,0.3586726158881388
 2016,Alabama,AL,statewide,False,Richard C. Shelby,republican,1335104,2087444,0.639587936251224
 2016,Alabama,AL,statewide,False,,other,3631,2087444,0.0017394478606372196
